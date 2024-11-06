@@ -7,7 +7,7 @@ require (
 	github.com/coredns/coredns v1.6.6
 	github.com/jinzhu/gorm v1.9.16
 	github.com/miekg/dns v1.1.31
-	github.com/prometheus/client_golang v1.3.0
+	github.com/prometheus/client_golang v1.20.5
 )
 
 replace github.com/coredns/coredns => github.com/coredns/coredns v1.6.6
